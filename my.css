@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sevillana&display=swap');
+
+nav .container {
+    font-family: "Bebas Neue", sans-serif;
+}
+.container .row #Hi{
+    color: rgb(44, 108, 171);
+    font-weight: bold;
+    margin-right: 310px;
+     }
+.container .row #min{
+    font-weight: bold;
+   
+}
+.container .row #YHA{
+    font-weight: bold;
+    color: orangered;
+}
+.container .row #Website{
+    font-weight: bold;
+}
+.first .container .row #b1 {
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(44, 108, 171);
+    border: none;
+    padding: 10px;
+ 
+}
+.first .container .row #b2 {
+    border-radius: 10px;
+    color: rgb(44, 108, 171);
+   background-color: white;
+    border: 2px solid  rgb(44, 108, 171);
+    padding: 10px;
+    margin-left: 20px;
+}
+.second .container .row h1 {
+    margin-top: 60px;
+    margin-right: 200px;
+ 
+}
+.second .container .row dt{
+    float: left;
+    width: 250px;
+  
+}
+.second .container .row dl{
+    margin-top: 50px;
+}
+.second .container .row button {
+   border-radius: 10px;
+   border: none;
+   color: white;
+   background-color: rgb(44, 108, 171);
+   padding: 10px;
+   margin-top: 10px;
+}
+.container h1{
+    margin-top: 30px;
+    text-align: center;
+   
+}
+footer {
+    color: white;
+    background-color: rgb(11, 192, 147);
+    margin-top: 70px;
+}
+footer .container .row #last{
+   display: flex;
+   margin-top: 20px;
+   justify-content: end;
+  
+  
+}
+footer .container .row #last #name{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+footer .container .row #last #email{
+    margin-bottom: 10px;  border-radius: 5px;
+    border: none; padding: 5px;
+}
+footer .container .row #last #password{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;padding: 5px;
+}
+footer .container .row #last #Number{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;padding: 5px;
+}
+footer .container .row #last #address{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;padding: 5px;
+}
+footer ,.container .row #sub{
+    border-radius: 5px;
+    color: black;
+    border: none;
+    padding: 8px;
+    margin-top: 8px;
+}
+footer .container h3{
+    color:white;
+    margin-top: 10px; padding: 5px;
+    font-size: 25px;
+    border-bottom: 2px solid white
+}
+footer .container .row #skill{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 80px;
+    color: white;
+}
+footer .container .row #master{
+    color: white;
+}
+footer .container .row #artist {
+    font-weight: bold;
+    color: white;
+}
+footer .container-fluid .row .col-12 #best{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-top: 30px;
+    color: white;
+    padding: 15px;
+    border: none;
+   
+    background-color: rgb(11, 97, 77);
+    
+}
+.third .container .row .back{
+    text-align: center;
+    font-weight: bold;
+    }
+
+
+    
